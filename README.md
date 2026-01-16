@@ -1,16 +1,17 @@
-## Hi there 👋
+# Paolo Diomede, Technical Account Manager (TAM) @ Certora
 
-<!--
-**pdiomede-certora/pdiomede-certora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help protocol teams ship safer smart contracts by adopting **formal verification** for critical invariants and security properties.
 
-Here are some ideas to get you started:
+## What Certora does
+Certora provides **formal verification** tools and expertise (the Certora Prover) to check that smart contracts satisfy key rules across all reachable states, catching edge cases that tests and reviews can miss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do as a TAM
+- Partner with teams to define security goals and success criteria
+- Translate protocol risks into clear, verifiable properties
+- Coordinate the engagement from scoping to delivery
+- Help teams integrate verification into their release and upgrade process
+
+## Topics I care about
+DeFi security, protocol design, upgrade safety, invariants, and defense-in-depth.
+
+📫 Reach me: [Email](mailto:paolo@certora.com) / [X](https://x.com/pdiomede) / [LinkedIn](https://www.linkedin.com/in/pdiomede/)
