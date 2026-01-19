@@ -20,8 +20,7 @@ Certora has also published monitoring-oriented research and tooling such as **Sa
 A lot of protocol losses come from operational failure modes: key management, multisig hygiene, access control around sensitive systems, and process weaknesses. Certora publishes practical OpSec guidance and encourages modern approaches like zero-trust thinking for protecting teams and systems.  [oai_citation:4‡certora.com](https://www.certora.com/blog/the-shift-to-zero-trust?utm_source=chatgpt.com)
 
 ## What I do as a TAM
-I partner with engineering and security teams to turn “we need to be secure” into an actionable plan and measurable outcomes.
-
+I partner with engineering and security teams to turn “we need to be secure” into an actionable plan and measurable outcomes:
 - Partner with teams to define **security goals**, scope, and success criteria
 - Translate protocol risks into **verifiable properties** and reviewable requirements
 - Coordinate delivery across verification and audit workflows, keep comms tight and execution unblocked
@@ -31,4 +30,4 @@ I partner with engineering and security teams to turn “we need to be secure”
 ## Topics I care about
 DeFi security, protocol design, upgrade safety, invariants, defense-in-depth, monitoring, and security operations.
 
-📫 Reach me: [Email](mailto:paolo@certora.com) / [X](https://x.com/pdiomede) / [LinkedIn](https://www.linkedin.com/in/pdiomede/)
+📫 Reach me: [Email](mailto:paolo@certora.com) / [X](https://x.com/pdiomede) / [LinkedIn](https://www.linkedin.com/in/pdiomede/) / [Web](https://pdiomede.com/)
